@@ -16,10 +16,10 @@ Esses exercícios foram elaborados durante o curso [Algoritmos e Lógica de Prog
 feito pela [Geek University](https://www.geekuniversity.com.br/) na plataforma [Udemy](https://www.udemy.com/).
 
 ## 🎯 Meu objetivo com este repositório
-Como estudante e futuro desenvolvedor apaixonado por tecnologia, desejo contribuir para o estudante de pessoas assim como eu estão buscando conhecimento e a realização do sonho de ser um profissional da área de tecnologia.
+Como estudante e futuro desenvolvedor apaixonado por tecnologia, desejo contribuir para o estudante, que assim como eu, está buscando conhecimento e a realização do sonho de ser um profissional da área de tecnologia.
 
 ## Observações
-Estou aberto para contribuições nesse e nos demais repositórios, críticas, elogios e sugestão de melhorias são bem-vindas 🙂
+Estou aberto para contribuições nesse repositório, críticas, elogios e sugestão de melhorias são bem-vindas 🙂.
 
 
 
