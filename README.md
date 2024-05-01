@@ -7,10 +7,10 @@ Aqui você vai encontrar exercícios para treinar lógica de programação em Py
 ## Eles estão separados em quatro pastas:
 | Pastas                                   | Links     |
 |------------------------------------------|-----------|
-| Calculos com Operadores Aritméticos      | h         |
-| Operadores Condicionais if...else e elif | h         |
-| Laços de Repetições                      | h         |
-| Listas                                   | h         |
+| Calculos com Operadores Aritméticos      | [Link](https://github.com/hparizani/Exercicios-Python/tree/main/CalculosComOperadoresAritmeticos)|
+| Operadores Condicionais if...else e elif | [Link](https://github.com/hparizani/Exercicios-Python/tree/main/OperadorElseIfElif)|
+| Laços de Repetições                      | [Link](https://github.com/hparizani/Exercicios-Python/tree/main/LacosDeRepeticao)|
+| Listas                                   | [Link](https://github.com/hparizani/Exercicios-Python/tree/main/Listas)|
 
 Esses exercícios foram elaborados durante o curso [Algoritmos e Lógica de Programação](https://www.udemy.com/course/algoritmos-e-logica-de-programacao-essencial/?couponCode=ST2MT43024)
 feito pela [Geek University](https://www.geekuniversity.com.br/) na plataforma [Udemy](https://www.udemy.com/).
